@@ -4,6 +4,8 @@
 
 Copyright © 2016 [VTT]. Licensed under [Apache 2.0 License].
 
+http://doc-kurento-room-client-android.readthedocs.io/en/latest/README.html
+
 webrtcpeer-android
 ==================
 This repository contains an Android library for creating WebRTC connections.
